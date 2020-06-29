@@ -4,8 +4,8 @@
 ![build succeeded](https://img.shields.io/badge/build-succeeded-brightgreen.svg)
 ![Test passing](https://img.shields.io/badge/Tests-passing-brightgreen.svg)
 
-:point_right: [English](README.md)<br>
-:point_right: [简体中文](readme/README-zh_cn.md)
+:point_right: [English](../README.md)<br>
+:point_right: [简体中文](README-zh_cn.md)
 
 信用卡支付系统可以帮助商户建立一个自定义的购物车支付方法，去管理不同的支付品牌。这个例子会演示如何使用 PayPal 最新的[Restful API](https://developer.paypal.com/docs/api/overview/)。你也可以参考这份相关的[文档](../docs/paypal-advance-card-payment-zh_cn.pdf)。
 
