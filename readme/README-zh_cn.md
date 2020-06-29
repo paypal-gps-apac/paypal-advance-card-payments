@@ -1,6 +1,6 @@
 # PayPal 信用卡支付集成文档
 
-[![npm version](https://badge.fury.io/js/avatar-bot-cli.svg)](https://badge.fury.io/js/paypal-acc-vault)
+[![npm version](https://badge.fury.io/js/paypal-restful-smart-payment-button.svg)](https://badge.fury.io/js/paypal-acc-vault)
 ![build succeeded](https://img.shields.io/badge/build-succeeded-brightgreen.svg)
 ![Test passing](https://img.shields.io/badge/Tests-passing-brightgreen.svg)
 
